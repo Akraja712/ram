@@ -1,7 +1,6 @@
 <?php
 
-
-define('DOMAIN_URL', 'https://telugupanchangam.vibametelugucalendar.in/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
+define('DOMAIN_URL', 'https://ramtelugucalendar.vibametelugucalendar.in/'); /* chnage to your domain here - don't forget to add forward slash at the end of the URL like this "/" */
 define('ALLOW_MODIFICATION', 1);
 define('JWT_SECRET_KEY', '12345678'); /* chnage to your secret key here set it to anything you like*/
 
@@ -11,14 +10,13 @@ class Database
      * Create variables for credentials to MySQL database
      * The variables have been declared as private. This
      * means that they will only be available with the 
-     * Database class
+     * Database clas
      */
 
     // private $db_host = "localhost";  // Change as required
     // private $db_user = "u743445510_tc2023";  // Change as required
     // private $db_pass = "Telugucalen@2023";  // Change as required
     // private $db_name = "u743445510_tc2023";    // Change as required
-
 
     //LIVE
     private $db_host = "localhost";  // Change as required
