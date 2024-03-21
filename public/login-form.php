@@ -30,7 +30,7 @@ if (isset($_POST['btnLogin'])) {
 
     // if email and password is not empty, check in database
     if (!empty($email) && !empty($password)) {
-        if($email == 'telugucalendar' && $password == 'Sjaveed@1995'){
+        if($email == 'ramsurendra' && $password == 'Ramtc@2024'){
             $_SESSION['id'] = '1';
             $_SESSION['role'] ='admin';
             $_SESSION['username'] = 'telugucalendar';
