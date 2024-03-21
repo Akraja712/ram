@@ -22,9 +22,9 @@ class Database
 
     //LIVE
     private $db_host = "localhost";  // Change as required
-    private $db_user = "u762811021_ramtelugucalendar";  // Change as required
-    private $db_pass = "Telugu@123";  // Change as required
-    private $db_name = "u762811021_ramtelugucalendar";    // Change as required
+    private $db_user = "u762811021_ramtelugucalen";  // Change as required
+    private $db_pass = "Ramtelugu@123";  // Change as required
+    private $db_name = "u762811021_ramtelugucalen";    // Change as required
     /*
      * Extra variables that are required by other function such as boolean con variable
      */
