@@ -15,7 +15,7 @@ $fn = new custom_functions;
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link rel="icon" type="image/ico" href="dist/img/favicon.png">
+        <link rel="icon" type="image/ico" href="dist/img/new.png">
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
@@ -164,12 +164,12 @@ $fn = new custom_functions;
                         <i class="fa fa-home" class="active"></i> <span>Home</span>
                     </a>
                 </li>
-                <li class="treeview">
+               <!-- <li class="treeview">
                     <a href="panchangam.php">
                         <i class="fa fa-calendar"></i>
                         <span>Panchangam</span>
                     </a>
-                </li>
+                </li>-->
                 <li class="treeview">
                     <a href="panchangam_new.php">
                         <i class="fa fa-calendar"></i>
