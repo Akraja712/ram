@@ -65,11 +65,11 @@ if (isset($_POST['btnLogin'])) {
                 <div class="box-body">
                     <div class="form-group">
                         <label for="exampleInputEmail1">Username :</label>
-                        <input type="text" name="email" class="form-control" value="<?= defined('ALLOW_MODIFICATION') && ALLOW_MODIFICATION == 0 ? 'telugucalendar' : '' ?>" required>
+                        <input type="text" name="email" class="form-control" value="<?= defined('ALLOW_MODIFICATION') && ALLOW_MODIFICATION == 0 ? 'ramsurendra' : '' ?>" required>
                     </div>
                     <div class="form-group">
                         <label for="exampleInputEmail1">Password :</label>
-                        <input type="password" class="form-control" name="password" value="<?= defined('ALLOW_MODIFICATION') && ALLOW_MODIFICATION == 0 ? 'Sjaveed@1995' : '' ?>" required>
+                        <input type="password" class="form-control" name="password" value="<?= defined('ALLOW_MODIFICATION') && ALLOW_MODIFICATION == 0 ? 'Ramtc@2024' : '' ?>" required>
                     </div>
                     <div class="box-footer">
                         <button type="submit" name="btnLogin" class="btn btn-info pull-left">Login</button>
