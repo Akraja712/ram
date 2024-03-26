@@ -241,13 +241,13 @@ $fn = new custom_functions;
                         <i class="fa fa-image"></i>
                         <span>Image Slider</span>
                     </a>
-                </li>-->
+                </li>
                 <li class="treeview">
                     <a href="slider.php">
                         <i class="fa fa-image"></i>
                         <span>Slider - 1 Data </span>
                     </a>
-                </li>
+                </li>-->
             </ul>
             </section>
             <!-- /.sidebar -->
