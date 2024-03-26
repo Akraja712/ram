@@ -236,12 +236,12 @@ $fn = new custom_functions;
                         <span>Temples</span>
                     </a>
                 </li>
-                <li class="treeview">
+               <!-- <li class="treeview">
                     <a href="image_slider.php">
                         <i class="fa fa-image"></i>
                         <span>Image Slider</span>
                     </a>
-                </li>
+                </li>-->
                 <li class="treeview">
                     <a href="slider.php">
                         <i class="fa fa-image"></i>
